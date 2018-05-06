@@ -33,19 +33,6 @@ Guvf vf n frperg grkg!
 
 ```
 
-
-Say what the step will be
-
-
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
 ## Author
 
 * **James Adhitthana** - [jamesadhitthana](https://github.com/jamesadhitthana)
