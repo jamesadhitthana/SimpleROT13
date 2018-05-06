@@ -4,7 +4,7 @@ ROT13 is the simplest and easiest way to encrypt and decrypt (cipher) a string o
 
 ## Getting Started
 
-Just download the java file and then run it on your computer. I have commented the code and so you can just view my comments to understand how the code works.
+Just download the java file and then run it on your computer. I have commented the code and so you can just view my comments to understand how the code works. It is so easy that beginner programmers should be able to understand it.
 Enjoy!
 
 
