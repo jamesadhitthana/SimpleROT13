@@ -37,4 +37,4 @@ Guvf vf n frperg grkg!
 
 ## Acknowledgments
 
-* [ROT13 Image from Wikipedia by (bdesham) ](https://en.wikipedia.org/wiki/ROT13#/media/File:ROT13_table_with_example.svg)
+* [ROT13 Image from Wikipedia (bdesham) ](https://en.wikipedia.org/wiki/ROT13#/media/File:ROT13_table_with_example.svg)
