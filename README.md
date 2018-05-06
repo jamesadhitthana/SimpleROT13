@@ -1,14 +1,11 @@
-# SimpleROT13
+# Easy and Simple ROT13
 ROT13 is the simplest and easiest way to encrypt and decrypt (cipher) a string of text!
 
 
 ## Getting Started
 
-Just download the java file and then run it on your computer!
+Just download the java file and then run it on your computer! I have commented the code and so if you dont understand how it works you can just view my comments on the code! Enjoy!
 
-### Prerequisites
-
-You need to have Java installed.
 
 ### Instructions
 
