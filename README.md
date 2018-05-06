@@ -1,10 +1,11 @@
 # Easy and Simple ROT13
-ROT13 is the simplest and easiest way to encrypt and decrypt (cipher) a string of text!
+ROT13 is the simplest and easiest way to encrypt and decrypt (cipher) a string of text! On this java application I have created a very simple way to encrypt/decrypt a string of text using ROT13. ROT13 is basically another substitution cipher technique (part of the Caesar cipher) that replaces a letter with the thirteenth letter after it (ROT13 = "rotate by 13 places").
 
 
 ## Getting Started
 
-Just download the java file and then run it on your computer! I have commented the code and so if you dont understand how it works you can just view my comments on the code! Enjoy!
+Just download the java file and then run it on your computer. I have commented the code and so you can just view my comments to understand how the code works.
+Enjoy!
 
 
 ### Instructions
