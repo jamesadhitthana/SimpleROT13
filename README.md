@@ -18,7 +18,7 @@ Input string to encrypt/decrypt then press enter:
 ```
 Input string to encrypt/decrypt then press enter: This is a secret text!
 ```
-3. Press enter
+3. Press enter to process the text
 4. View the results!
 ```
 Input string to encrypt/decrypt then press enter: This is a secret text!
